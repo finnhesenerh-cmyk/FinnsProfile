@@ -1,4 +1,3 @@
-# FinnsProfile
 <!DOCTYPE html>
 <html lang="de">
 <head>
